@@ -30,9 +30,9 @@ This repository demonstrates a secure, production-like database integration patt
 *Caption:* Users/Admin → Internet → EC2 Jump Server (public subnet) → Amazon RDS MySQL (private subnet). Security groups restrict DB access to the jump-server. 🔐
 
 ## 📸 Proof-of-Work Screenshots
-![RDS console](docs/images/6-rds-console.png)  
-![EC2 instances](docs/images/7-ec2-instances.png)  
-![MySQL queries](docs/images/8-mysql-queries.png)
+![RDS console](https://github.com/Naveen15github/End-to-End-Cloud-Database-Integration-using-AWS-EC2-and-RDS/blob/5d986faf85493f8d72c0b90a76496ccac216cff5/Screenshot%20(72).png)  
+![EC2 instances](https://github.com/Naveen15github/End-to-End-Cloud-Database-Integration-using-AWS-EC2-and-RDS/blob/5d986faf85493f8d72c0b90a76496ccac216cff5/Screenshot%20(73).png)  
+![MySQL queries](https://github.com/Naveen15github/End-to-End-Cloud-Database-Integration-using-AWS-EC2-and-RDS/blob/5d986faf85493f8d72c0b90a76496ccac216cff5/Screenshot%20(76).png)
 
 ## 🗂 Files Included
 - `README.md` (this file)  
