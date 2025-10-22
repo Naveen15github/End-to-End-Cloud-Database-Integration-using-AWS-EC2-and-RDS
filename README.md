@@ -32,19 +32,12 @@ This repo demonstrates a secure, production-like database integration pattern:
 ---
 
 🏗 Architecture diagram
-![Architecture diagram — EC2 + RDS](docs/images/5-architecture.png)  
+![Architecture diagram — EC2 + RDS](https://github.com/Naveen15github/End-to-End-Cloud-Database-Integration-using-AWS-EC2-and-RDS/blob/5d986faf85493f8d72c0b90a76496ccac216cff5/ChatGPT%20Image%20Oct%2022%2C%202025%2C%2001_51_38%20PM.png)  
 *Caption:* Users (admin) → Internet → EC2 Jump Server (public subnet) → Amazon RDS MySQL (private subnet). Security groups restrict DB access to the jump-server. 🔐
 
 ---
 
 📸 Proof-of-work screenshots
-Add these images to docs/images/ for the README to show:
-- docs/images/5-architecture.png — Architecture diagram
-- docs/images/6-rds-console.png — RDS console: my-mysql-db (Available)
-- docs/images/7-ec2-instances.png — EC2 console: db-jump-server (Running)
-- docs/images/8-mysql-queries.png — Terminal: queries & results run from jump-server
-
-Example display (they will render after you add the files):
 ![RDS console](docs/images/6-rds-console.png)  
 ![EC2 instances](docs/images/7-ec2-instances.png)  
 ![MySQL queries](docs/images/8-mysql-queries.png)
