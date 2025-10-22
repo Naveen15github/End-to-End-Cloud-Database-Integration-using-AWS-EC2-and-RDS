@@ -9,7 +9,6 @@ I designed, provisioned, secured, and validated an AWS setup with an EC2 jump-se
 - ✨ Project Overview  
 - 🏗 Architecture Diagram  
 - 📸 Proof-of-Work Screenshots  
-- 🗂 Files Included  
 - ▶️ How to Reproduce  
 - 🧾 SQL: Schema & Seed  
 - 🔍 Verification Queries  
@@ -33,12 +32,6 @@ This repository demonstrates a secure, production-like database integration patt
 ![RDS console](https://github.com/Naveen15github/End-to-End-Cloud-Database-Integration-using-AWS-EC2-and-RDS/blob/5d986faf85493f8d72c0b90a76496ccac216cff5/Screenshot%20(72).png)  
 ![EC2 instances](https://github.com/Naveen15github/End-to-End-Cloud-Database-Integration-using-AWS-EC2-and-RDS/blob/5d986faf85493f8d72c0b90a76496ccac216cff5/Screenshot%20(73).png)  
 ![MySQL queries](https://github.com/Naveen15github/End-to-End-Cloud-Database-Integration-using-AWS-EC2-and-RDS/blob/5d986faf85493f8d72c0b90a76496ccac216cff5/Screenshot%20(76).png)
-
-## 🗂 Files Included
-- `README.md` (this file)  
-- `sql/schema.sql` — DDL to create `myappdb` and core tables  
-- `sql/seed.sql` — Seed data to reproduce screenshots and queries  
-- `docs/images/*` — architecture + verification screenshots
 
 ## ▶️ How to Reproduce
 1. Copy SQL to jump-server:  
